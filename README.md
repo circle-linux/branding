@@ -1,2 +1,1 @@
-# branding
-Circle Linux's official branding assets
+# Circle Linux Branding repo
